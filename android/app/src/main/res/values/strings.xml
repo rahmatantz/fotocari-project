@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FotoCari</string>
+    <string name="title_activity_main">FotoCari</string>
+    <string name="package_name">com.rumahcari.fotocari</string>
+    <string name="custom_url_scheme">com.rumahcari.fotocari</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "appId": "com.rumahcari.fotocari",
+  "appName": "FotoCari",
+  "webDir": "dist",
+  "backgroundColor": "#07080c",
+  "android": { "allowMixedContent": false }
+}
